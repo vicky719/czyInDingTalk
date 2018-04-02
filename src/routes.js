@@ -17,7 +17,7 @@ export default new Router({
     },
     {
       path: '/*',
-      redirect: '/homeList'
+      redirect: {name: 'czy-homeList'}
     }
   ]
 })
