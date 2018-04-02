@@ -1,11 +1,11 @@
 <style type="text/scss" lang="scss">
   .page-czy-footer {
-    /*width: 1050px;*/
-    margin: 16px auto 0;
+    width: 100%;
+    margin: .16rem auto 0;
     box-shadow: #eee;
     color:#999;
-    line-height:80px;
-    font-size: 10px;
+    line-height: .8rem;
+    font-size: .1rem;
     text-align: center;
     background: #fff;
   }
