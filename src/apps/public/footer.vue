@@ -12,7 +12,7 @@
 </style>
 <template>
   <div class="page-czy-footer">
-    财智云页脚
+    财智云页脚（收入、支出、我）
   </div>
 </template>
 

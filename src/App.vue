@@ -11,6 +11,6 @@
 
 <script>
 export default {
-  name: 'czy-home'
+  name: 'czy'
 }
 </script>

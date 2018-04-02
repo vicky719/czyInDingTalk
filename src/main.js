@@ -1,5 +1,5 @@
 import Vue from 'vue'
-import czyHome from './App'
+import App from './App'
 import router from './routes'
 
 import components from './components.js';
@@ -10,6 +10,6 @@ Vue.use(components);
 window._bus = new Vue({
   el: '#app',
   router,
-  components: { czyHome },
-  template: '<czyHome/>'
+  components: { App },
+  template: '<App/>'
 });
